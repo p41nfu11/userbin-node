@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/userbin/userbin-node.png)](https://travis-ci.org/userbin/userbin-node)
+
 Userbin for Node.js
 ===================
 
