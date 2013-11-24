@@ -88,7 +88,7 @@ if userLoggedIn
 
 #### Connect
 
-In Connect the currently logged in user is accessed through the `req.user` property which needs to be explicitly passed to your views.
+In Connect the currently logged in user is accessed through the `req.currentUser` property which needs to be explicitly passed to your views.
 
 ```javascript
 app.get('/', function (req, res) {
